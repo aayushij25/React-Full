@@ -1,0 +1,15 @@
+#heading {
+    color: red;
+}
+
+#child1, #child2 {
+    background-color: bisque;
+}
+
+#parent {
+    background-color: red;
+}
+
+#sub-heading {
+    color: blue;
+}
