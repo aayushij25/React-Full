@@ -1,2 +1,17 @@
-Topics of React covered - 
-React Hooks
+# Parcel
+- Dev build
+- Local Server
+- HMR = Hot Module Replacement
+- File Watching Algorithm - written in C++
+- Caching - Faster Builds
+- Image Optimization
+- Minification 
+- Bundling 
+- Compressing
+- Consistent Hashing
+- Code Splitting
+- Differential Bunding - support older browsers
+- Diagnostic
+- Error Handling
+- HTTPs
+- Tree Shaking - remove unused code

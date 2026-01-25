@@ -1,3 +1,5 @@
+import React from "react"; //coming from node_modules
+import ReactDOM from "react-dom/client"; //coming from node_modules
 // Basic React /////////////////////////////////////
 /*
 const heading = React.createElement(
@@ -36,7 +38,7 @@ const parent = React.createElement(
     [
         React.createElement(
             "div",
-            {id: "child1"},
+            {id: "child1", key:"1"},
             [
                 React.createElement(
                     "h1",
@@ -52,7 +54,7 @@ const parent = React.createElement(
         ),
         React.createElement(
             "div",
-            {id: "child2"},
+            {id: "child2", key: "2"},
             [
                 React.createElement(
                     "h1",
